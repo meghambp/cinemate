@@ -6,7 +6,7 @@ import { useTitle } from "../hooks/useTitle";
 import PageNotFoundImage from "../assets/images/pagenotfound.png"
 
 export const PageNotFound = () => {
-  const pageTitle = useTitle(`Page Not Found / Cinemate`);
+  useTitle(`Page Not Found / Cinemate`);
   
   return (
     <main>

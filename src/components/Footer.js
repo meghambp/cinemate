@@ -7,16 +7,16 @@ export const Footer = () => {
           <Link to="/" className="hover:underline"> Cinemate</Link>. All Rights Reserved.</span>
           <ul className="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
               <li>
-                  <a href="#" target="_blank" className="mr-4 hover:underline md:mr-6 ">Instagram</a>
+                  <a href="https://www.instagram.com/meghambp/" target="_blank" className="mr-4 hover:underline md:mr-6 ">Instagram</a>
               </li>
               <li>
-                  <a href="#" target="_blank" className="mr-4 hover:underline md:mr-6">LinkedIn</a>
+                  <a href="https://www.linkedin.com/in/meghakumaripatel/" target="_blank" className="mr-4 hover:underline md:mr-6">LinkedIn</a>
               </li>
               <li>
-                  <a href="#" target="_blank" className="mr-4 hover:underline md:mr-6">Youtube</a>
+                  <a href="https://www.youtube.com/channel/UCoP3OMZCRS1Vk5iU2KWnKsw" target="_blank" className="mr-4 hover:underline md:mr-6">Youtube</a>
               </li>
               <li>
-                  <a href="#" target="_blank" className="hover:underline">Github</a>
+                  <a href="https://github.com/meghambp" target="_blank" className="hover:underline">Github</a>
               </li>
           </ul>
       </footer>

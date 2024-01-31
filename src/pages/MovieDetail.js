@@ -4,7 +4,7 @@ import { useTitle } from "../hooks/useTitle";
 
 import Backup from "../assets/images/backup.png";
 
-export const MovieDetail = ({}) => {
+export const MovieDetail = () => {
   const params = useParams();
   const [movie, setMovie] = useState({});
   useTitle(movie.title);
